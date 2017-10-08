@@ -23,16 +23,16 @@
   "peerDependencies": {
     "preact": ">=5"
   },
-  "author": "Huszak Gabor",
+  "author": "Claudio4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/huszy/preact-google-recaptcha"
+    "url": "https://github.com/claudio4/preact-google-recaptcha"
   },
   "bugs": {
-    "url": "https://github.com/huszy/preact-google-recaptcha/issues"
+    "url": "https://github.com/claudio4/preact-google-recaptcha/issues"
   },
-  "homepage": "https://github.com/huszy/preact-google-recaptcha",
+  "homepage": "https://github.com/claudio4/preact-google-recaptcha",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
