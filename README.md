@@ -9,7 +9,7 @@ Heavily inspired by [React Google Recaptcha][react-google-recaptcha], but remove
 ## Installation
 
 ```shell
-npm install --save preact-google-recaptcha
+npm install --save preact-grecaptcha
 ```
 
 ## Example
