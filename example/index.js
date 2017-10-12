@@ -2,7 +2,7 @@ import { h, render, Component } from 'preact';
 import "preact/debug";
 import ReCaptcha from '../src';
 
-const sitekey = 'xxxxx';
+const sitekey = '6LfeHx4UAAAAAAKUx5rO5nfKMtc9-syDTdFLftnm';
 
 let recaptchaInstance, recaptchaInvisibleInstance;
 
